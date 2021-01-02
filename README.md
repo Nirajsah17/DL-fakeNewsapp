@@ -1,8 +1,8 @@
 # DL-fakeNewsapp
 # Demo 
-<img src="https://github.com/Nirajsah17/DL-fakeNewsapp/blob/master/main.png">
-<img src="https://github.com/Nirajsah17/DL-fakeNewsapp/blob/master/second.png">
-<img src="https://github.com/Nirajsah17/DL-fakeNewsapp/blob/master/third.png">
+<img src="https://github.com/Nirajsah17/DL-fakeNewsapp/blob/master/main.png"><br><br>
+<img src="https://github.com/Nirajsah17/DL-fakeNewsapp/blob/master/Second.png"><br><br>
+<img src="https://github.com/Nirajsah17/DL-fakeNewsapp/blob/master/third.png"><br><br>
 # Table of content
 * Overviews
 * Motivation 
