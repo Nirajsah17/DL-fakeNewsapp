@@ -29,5 +29,3 @@
 |---------|-----------------|
 |[Full Name](https://github.com/[github handle])| @Vikash_Gupta        |
 |[Full Name](https://github.com/[github handle]) |     @Sushil_sah    |<br>
-<img src="https://github.com/Nirajsah17/DL-fakeNewsapp/blob/master/NIRAJ.jpg" height="300">
-Name : Niraj Kumar
